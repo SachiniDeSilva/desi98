@@ -7,7 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sachi_dsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachi_dsilva" height="30" width="40" /></a>
+<a href="https://instagram.com/sachi_dsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachi_dsilva" height="30" width="40" /></a> 
+  <a href="www.linkedin.com/in/sachini-de-silva-973b68218" target="blank"><img align="https://th.bing.com/th/id/R.6e154f80072e0f134105ec35599d74a6?rik=FuCTxBaCafJosQ&riu=http%3a%2f%2fwww.vhv.rs%2ffile%2fmax%2f9%2f98181_linkedin-transparent-png.png&ehk=AxP4h6bKnUWcGTor4PVhnQB%2bpJFGmEiu6wwfCXRXJYI%3d&risl=&pid=ImgRaw&r=0" alt="Sachini De Silva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
